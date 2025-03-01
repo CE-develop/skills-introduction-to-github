@@ -64,5 +64,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 This is an additional code to test a merge.
 
 This is a main change.
-
+This is a merge test conflict (separate from main change).
 </footer>
